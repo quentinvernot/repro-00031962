@@ -1,0 +1,7 @@
+{
+  "name": "repro-00031962",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase-tools": "^7.12.1"
+  }
+}
